@@ -1,22 +1,99 @@
-### Hi there👋, I'm Zoe
+<p align="right">
+  <strong>简体中文</strong> / <a href="./README_EN.md">English</a>
+</p>
 
-[cite_start]本科在读 [cite: 8][cite_start]，主修遥感科学与技术 [cite: 8, 20][cite_start]。目前关注卫星遥感数据处理、低空影像分析及 GIS 空间建模 [cite: 21, 29, 30]。
+<div align="center">
 
-#### 🛠 Recent Work & Projects
-- [cite_start]**湖泊监测**：主持鄱阳湖水储量变化协同监测研究，处理 Landsat、Sentinel 及 GRACE 多源卫星数据 [cite: 35, 38]。
-- [cite_start]**低空技术**：持有 CAAC 民用无人机驾驶员执照，开展无人机数据采集与三维建模相关实践 [cite: 22, 27]。
-- [cite_start]**编程实践**：使用 Python (NumPy, Pandas) 进行遥感数据自动化处理，掌握 netCDF 等格式解析 [cite: 31]。
-- [cite_start]**交流经历**：在马来西亚理工大学（UTM）交换学习半年，修读地理信息数据库及数字图像处理课程 [cite: 14, 16, 17]。
+# 👋 Hi there, I'm Zoe 
 
-#### 🏸 Life & Interests
-- **户外**：徒步、爬雪山、健身。
-- **运动**：羽毛球。
-- **审美**：电影《星际穿越》，乐队 Queen。
+### 遥感科学与技术 · 无人机驾驶员 · 行动派
 
-#### 💬 Contact
-- [cite_start]**Email**: zhaoyuechen0902@outlook.com [cite: 5]
-- [cite_start]**Skills**: IELTS 6.5 / CET-6 550 [cite: 24]
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&center=true&vCenter=true&width=800&lines=Remote+Sensing+%2B+GIS+Learner;CAAC+UAV+Pilot;Python+%2B+Geospatial+Data+Explorer;Action-oriented+Learner;Keep+learning%2C+keep+flying%2C+keep+exploring." alt="Typing SVG" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Location-Zhejiang%2C%20China-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Focus-Remote%20Sensing%20%7C%20GIS%20%7C%20UAV-green?style=flat" />
+  <img src="https://img.shields.io/badge/Identity-Student%20%7C%20Researcher%20%7C%20Pilot-orange?style=flat" />
+</p>
+
+</div>
 
 ---
 
-![Zoe's GitHub stats](https://github-readme-stats.vercel.app/api?username=zoezhao92&show_icons=true&theme=transparent&hide_border=true)
+## 🧑‍💻 关于我
+
+你好，我是 **Zoe **。
+
+我主修 **遥感科学与技术** 专业，目前正在探索如何利用卫星数据和低空智能技术来感知和理解我们的星球。
+我关注数据背后的地理意义与自动化处理，主要研究与实践方向包括：
+
+- 🛰️ **卫星遥感**：多源卫星数据融合、水储量监测、波高分析
+- 🚁 **低空技术**：无人机数据采集、三维建模、低空信息提取
+- 🐍 **编程实践**：Python 数据处理（NumPy, Pandas, netCDF）、自动化流程
+- 🗺️ **GIS 空间分析**：ArcGIS/QGIS 空间建模、专题图制作与可视化
+- 🌏 **跨界视野**：曾赴马来西亚理工大学（UTM）交换学习，修读空间数据库相关课程
+
+除了专业研究，我是一个彻底的 **行动派**。
+我喜欢 **爬雪山、徒步、健身**，也享受在 **羽毛球** 场上的专注感。
+我希望像《星际穿越》里表达的那样，保持对未知的好奇心；也像 Queen 的音乐一样，拥有向上生长的力量。
+
+---
+
+## 🛠️ 技术栈
+
+<div align="center">
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,matlab,cpp,html,css,git,github,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ENVI-000000?style=flat&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/ArcGIS-007ACC?style=flat" />
+  <img src="https://img.shields.io/badge/CAAC_UAV_Pilot-FF7A59?style=flat" />
+  <img src="https://img.shields.io/badge/IELTS_6.5-4B5563?style=flat" />
+</p>
+
+</div>
+
+---
+
+## 🧭 科研与实践方向
+
+| Direction | Description |
+|---|---|
+| 🛰️ **水环境遥感** | 融合 Landsat、Sentinel 及 GRACE 多源数据，监测长时序湖泊水储量变化。 |
+| 🚁 **低空智能** | 结合测绘地理信息背景，探索无人机在低空经济领域的创新应用与数据处理。 |
+| 🐍 **自动化处理** | 编写 Python 脚本实现影像预处理与批量分析，减少重复性手工劳动。 |
+| 🗺️ **空间可视化** | 将地理信息转化为标准化、可视化成果，为乡村振兴或科研决策提供支撑。 |
+
+---
+
+## 🎧 另一部分我
+
+🏔️ **登山/徒步** · 🏸 **羽毛球** · 🌌 **星际穿越** · 🎸 **Queen**
+
+我喜欢用脚步丈量地理空间，记录自然界的光影。
+技术学习与身体力行的实践，是我认知世界的两种方式。
+
+---
+
+## 🌱 关于RS&GIS
+
+> 换个“上帝视角”看地球。
+> 把代码写进地理空间，把好奇心留在山川湖海。
+> Keep learning, keep flying, keep exploring.
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile.
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zoezhao92&show_icons=true&theme=transparent&hide_border=true" alt="Zoe's stats" />
+</p>
+
+</div>
