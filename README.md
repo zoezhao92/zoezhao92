@@ -43,7 +43,7 @@
 <div align="center">
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,matlab,sql,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,matlab,github,vscode" />
 </p>
 
 <p>
