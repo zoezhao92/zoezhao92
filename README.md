@@ -1,4 +1,4 @@
-### Hi, I'm Zoe (赵悦辰) 👋
+### Hi there👋, I'm Zoe
 
 [cite_start]本科在读 [cite: 8][cite_start]，主修遥感科学与技术 [cite: 8, 20][cite_start]。目前关注卫星遥感数据处理、低空影像分析及 GIS 空间建模 [cite: 21, 29, 30]。
 
